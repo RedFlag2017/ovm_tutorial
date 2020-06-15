@@ -1,5 +1,5 @@
 # ovm_tutorial
-This a tutorial for OVM (Open Verification Methodology) testbench .
+This is a tutorial for OVM (Open Verification Methodology) testbench .
 OVM is very similar to UVM(Universal Verification Methodology).
 
 # How to Run
