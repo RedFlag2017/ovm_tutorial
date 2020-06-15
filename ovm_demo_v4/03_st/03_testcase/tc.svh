@@ -1,1 +1,0 @@
-`include "../03_testcase/tc01/tc01.sv"
