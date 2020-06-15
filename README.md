@@ -7,7 +7,7 @@ You can run this tutorial on Windows with Modelsim.
 These demos can run correctly with modeltech_10.2c .
 
 # Tips
-There are serveral version of testbench(from ovm_demo_v1 to ovm_demo_v5).
+There are serveral version of testbench(from ovm_demo_v1 to ovm_demo_v3).
 ovm_demo_v1 is the most simple ovm testbench, you can start from this.
 
 ## ovm_demo_v1
